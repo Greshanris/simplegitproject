@@ -1,0 +1,8 @@
+// Ignore all CSS files
+*.css
+
+// ingore all .env files
+*.env
+
+// ignore all passwords directory
+passwords/
